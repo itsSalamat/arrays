@@ -1,5 +1,6 @@
 import UIKit
 
+//
 // Arrays - Массивы
 
 var visitedCities: [String] = ["Bishkek", "Istanbul", "Munich", "New York"]
