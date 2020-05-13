@@ -3,7 +3,7 @@ Creating, Accessing, Editing Arrays, iterations
 
 import UIKit
 
-// Arrays - Массивы
+// Arrays - Массивы I have to review 
 
 var visitedCities: [String] = ["Bishkek", "Istanbul", "Munich", "New York"]
 let cities: [String] = ["Ankara", "New Jersey", "Dublin", "Toronto"]
